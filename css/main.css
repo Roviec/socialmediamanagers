@@ -32,13 +32,13 @@
 }
 #somos{
   position: relative;
-  background:url(C:/Users/Maximo/Documents/socialmediamanagers/img/logo_bn.png);
+  background:url(http://roviec.github.io/img/logo_bn.png);
   background-size: ;
   min-height: 100px;
  }
 #servicios{
   position: relative;
-  background:url(C:/Users/Maximo/Documents/socialmediamanagers/img/logo_n.png);
+  background:url(http://roviec.github.io/img/logo_n.png);
   background-size:  ;
   min-height: 100px;
 }
@@ -52,14 +52,14 @@
 }
 #clientes{
     position: relative;
-    background:url(C:/Users/Maximo/Documents/socialmediamanagers/img/logo_c.png);
+    background:url(http://roviec.github.io/img/logo_c.png);
     background-size:  ;
     min-height: 100px;
   }
 
  #blog{
   position: relative;
-  background:url(C:/Users/Maximo/Documents/socialmediamanagers/img/logo_b.png);
+  background:url(http://roviec.github.io/img/logo_b.png);
   background-size:  ;
   min-height: 100px;
 }
